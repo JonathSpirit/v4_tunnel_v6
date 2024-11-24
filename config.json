@@ -1,0 +1,5 @@
+{
+    "ipv4_port": 60000,
+    "tunnel_port": 777,
+    "tunnel_ip": "127.0.0.1"
+}
